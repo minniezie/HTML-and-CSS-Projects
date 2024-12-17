@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>"SEASONS OF THE YEAR"</title>
+</head>
+
+<body>
+
+<head>
+<body>
+
+<nav>
+<a href="Seasonspic.html">Seasonspic</a>
+
+<a href="https://youtu.be/4HeeCYVqf3U"</a>
+<nav>
+
+
+<nav>
+
+
+
+</main>
+<footer>
+</body>
+
+
+</html>
+
